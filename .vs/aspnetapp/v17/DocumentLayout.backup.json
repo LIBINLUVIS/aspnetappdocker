@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lesle\\source\\repos\\aspnetapp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A80EC431-A9EA-4393-862C-CE9E99FA192F}|aspnetapp.csproj|c:\\users\\lesle\\source\\repos\\aspnetapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80EC431-A9EA-4393-862C-CE9E99FA192F}|aspnetapp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80EC431-A9EA-4393-862C-CE9E99FA192F}|aspnetapp.csproj|c:\\users\\lesle\\source\\repos\\aspnetapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A80EC431-A9EA-4393-862C-CE9E99FA192F}|aspnetapp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A80EC431-A9EA-4393-862C-CE9E99FA192F}|aspnetapp.csproj|c:\\users\\lesle\\source\\repos\\aspnetapp\\.github\\workflows\\pipeline.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A80EC431-A9EA-4393-862C-CE9E99FA192F}|aspnetapp.csproj|solutionrelative:.github\\workflows\\pipeline.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A80EC431-A9EA-4393-862C-CE9E99FA192F}|aspnetapp.csproj|c:\\users\\lesle\\source\\repos\\aspnetapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A80EC431-A9EA-4393-862C-CE9E99FA192F}|aspnetapp.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A80EC431-A9EA-4393-862C-CE9E99FA192F}|aspnetapp.csproj|c:\\users\\lesle\\source\\repos\\aspnetapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A80EC431-A9EA-4393-862C-CE9E99FA192F}|aspnetapp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\lesle\\source\\repos\\aspnetapp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\lesle\\source\\repos\\aspnetapp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T18:40:23.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "pipeline.yml",
               "DocumentMoniker": "C:\\Users\\lesle\\source\\repos\\aspnetapp\\.github\\workflows\\pipeline.yml",
               "RelativeDocumentMoniker": ".github\\workflows\\pipeline.yml",
@@ -59,20 +76,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lesle\\source\\repos\\aspnetapp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\lesle\\source\\repos\\aspnetapp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T18:01:17.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\lesle\\source\\repos\\aspnetapp\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",
@@ -80,8 +97,7 @@
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-30T17:58:03.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T17:58:03.698Z"
             }
           ]
         }

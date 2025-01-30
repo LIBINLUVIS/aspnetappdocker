@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\lesle\\source\\repos\\aspnetapp\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T18:40:23.127Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": ".github\\workflows\\pipeline.yml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-01-30T18:34:57.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T18:34:57.861Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T18:01:17.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T18:01:17.918Z"
             },
             {
               "$type": "Document",
