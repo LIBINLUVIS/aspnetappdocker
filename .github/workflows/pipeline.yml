@@ -1,0 +1,15 @@
+name: pipeline.yml
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Build & Push Image
+        run: |
+          echo "${{ secrets.DOCKERPW }}" | docker login -u "hacker12345" --password-stdin
+          docker image build -t hacker12345/aspnetapp:latest .
+          docker push hacker12345/aspnetapp:latest
